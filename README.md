@@ -15,7 +15,3 @@ Random distribution
 Clustered distribution
 
 ![alt text](/screenshots/distr2.gif?raw=true "Clustered Distr")
-
-Maximum number of objects
-
-![alt text](/screenshots/distr3.gif?raw=true "Max Distr")
