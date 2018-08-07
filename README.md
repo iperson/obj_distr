@@ -1,8 +1,8 @@
 # dstrScrpt.py
 
-This script is still work in development (was my first Python project). It allows duplication of objects without intersection on the selected surface. Additionally it lets user bake texture to vertex color.
+This script is still work in progress(ish) (was my first Python project). It allows duplication of objects without intersection on the selected surface. Additionally it lets user bake texture to vertex color.
 
-Usage: Type name of the object to be duplicated. Select surface and number of copies to be generated. Start either clustered distribution or random. If there is not enough space, distribution will stop.
+Usage: Enter name of the object to be duplicated. Select surface and number of copies to be generated. Start either clustered distribution or random. If there is not enough space, distribution will stop.
 
 User Interface
 
