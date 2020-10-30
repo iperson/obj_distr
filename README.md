@@ -1,4 +1,4 @@
-# dstrScrpt.py
+# Does not work at the moment, I am making changes to make it work with 2.90+
 
 This script is still work in progress(ish) (was my first Python project). It allows duplication of objects without intersection on the selected surface. Additionally it lets user bake texture to vertex color.
 
