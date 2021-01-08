@@ -1,6 +1,6 @@
 # Only works with Blender 2.81
 
-This script is still work in progress(ish) (was my first Python project). It allows duplication of objects without intersection on the selected surface. Additionally it lets user bake texture to vertex color.
+This was my first Python project and first addon for Blender3D. It allows duplication of objects without intersection on the selected surface. Additionally it lets user bake texture to vertex color.
 
 Usage: Enter name of the object to be duplicated. Select surface and number of copies to be generated. Start either clustered distribution or random. If there is not enough space, distribution will stop.
 
